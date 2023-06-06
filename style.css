@@ -1,3 +1,5 @@
+
+
 body {
     margin: 0;
     padding: 0;
@@ -10,7 +12,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: blue;
+    
     
 }
 
@@ -19,9 +21,10 @@ body {
     width: 150px;
     margin: 20px;
     padding-left: 100px;
-    
-    
-}
+    }
+
+
+
 
 .titles {
     font-size: 1.8em;
@@ -34,7 +37,9 @@ span {
     color: darkcyan;
     font-size: 20px;
     background-color: antiquewhite;
-    border: 1px solid yellow;
+    border-top: 1px solid yellow;
+    
+    
     
     
 }
