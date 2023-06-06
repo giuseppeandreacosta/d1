@@ -3,6 +3,7 @@
 body {
     margin: 0;
     padding: 0;
+    height: 100%;
     
 }
 
@@ -20,7 +21,7 @@ body {
     height: 50px;
     width: 150px;
     margin: 20px;
-    padding-left: 100px;
+    padding-left: 600px;
     }
 
 
@@ -37,11 +38,16 @@ span {
     color: darkcyan;
     font-size: 20px;
     background-color: antiquewhite;
-    border-top: 1px solid yellow;
+    width: 200vh;
+    border-top: 2px solid yellow; 
+    text-align: center;
+    padding: 15px;
     
-    
-    
-    
+}
+
+.left {
+    border-left: 1px solid yellow;
+    padding-left: 10px;
 }
 
 #pizza {
@@ -53,6 +59,10 @@ span {
     color:grey;
     font-size: large;
     text-align: center;
+}
+
+.content {
+   padding-left: 200px;
 }
 
 .footer  {
