@@ -42,7 +42,7 @@ span {
 .headtext {
     color: darkcyan;
     font-size: 20px;
-    background-color: antiquewhite;
+    background-color: #fefbf1;
     width: 200vh;
     border-top: 2px solid yellow; 
     text-align: center;
@@ -78,6 +78,3 @@ a {
     text-decoration: none;
 }
 
-.fine {
-    margin:30px
-}
