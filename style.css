@@ -21,10 +21,13 @@ body {
     height: 50px;
     width: 150px;
     margin: 20px;
-    padding-left: 600px;
+    padding-left: 40%;
     }
 
-
+.intro h1 {
+    font-size: 2em;
+    
+}
 
 
 .titles {
